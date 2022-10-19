@@ -1,0 +1,211 @@
+.scontainer{
+    display: flex;
+    align-items: flex-start;
+   
+   
+    width:100%;
+   
+}
+
+.bigdiv{
+  display: flex;
+ 
+}
+.graphimage{
+  width :60%;
+}
+.ygbr{
+  width: 40%;
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  justify-content: center;
+
+}
+
+.section{
+  border-radius: 10px;
+
+}
+.section2{
+border-radius: 10px;
+}
+
+
+
+.card{
+justify-content: center;
+align-items: center;
+ }
+ .box{
+  border: 1px;
+  border-style: solid;
+  padding: 20px;
+  border-radius: 15px;
+  height: 110px;
+  
+
+    
+ }
+
+ .bargraph{
+  display: flex;
+  flex-direction: column;
+width: 300px;
+height: 40vh;
+
+ }
+.Headingg{
+  text-align: center;
+width: 100%;
+  
+}
+ .all{
+   
+    align-items: center;
+    justify-content: center;
+    gap: 15px;
+    width: 100%;
+    flex-direction: column;
+    display: flex;
+ }
+ .aficant{
+   
+     border-style: solid;
+     border-color: yellow;
+     background-color: yellow;
+   border-radius: 5px;
+   height: 10vh;
+   width: 200px;
+   flex-direction: column;
+   display: flex;
+   
+   
+ 
+ }
+ .Merchandise{
+    
+     border-style: solid;
+     border-color: green;
+     background-color: green;
+   border-radius: 5px;
+   height: 10vh;
+   width: 200px;
+   flex-direction: column;
+   display: flex;
+ 
+ }
+ .Places{
+    
+     border-style: solid;
+     border-color: blue;
+     background-color: blue;
+   border-radius: 5px;
+   height: 10vh;
+   width: 200px;
+flex-direction: column;
+display: flex;
+   
+ 
+ }
+ .ygbr{
+  flex-direction: column;
+  display: flex;
+ }
+ .customers{
+    
+     border-style: solid;
+     border-color: red;
+     background-color: red;
+   border-radius: 5px;
+   height: 10vh;
+   width: 200px;
+   flex-direction: column;
+   display: flex;
+ 
+ }
+ nav{
+  width: 100%;
+
+ }
+ .cinq{
+    display: flex;
+     gap: 13px;
+   width: 230px
+    
+    
+     
+ }
+
+
+.ssidebar{
+    width:20%;
+    background-color: black;
+    height: 220vh;
+       color: white;
+       display: block;
+       
+       
+
+}
+.green{
+    color: green;
+}
+.bigboi{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.bam{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.uglay{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+flex-direction: column;
+display: flex;
+
+}
+
+.micupbroi{
+height: 50px;
+}
+
+.mainman{
+width: 80%;
+display: flex;
+flex-direction: column;
+align-items: flex-start;
+justify-content: center;
+gap: 50px;
+
+
+}
+
+#tab{
+  margin-left: 100px;
+  margin-right: 100px;
+  height:200px;
+}
+
+@media screen  and (max-width:480px){
+  .ssidebar{
+    display:none;
+  }
+  .mainman{
+    width: 100%;
+  }
+}
+
+
+
+
+@media screen (max-width:780px){}
+  
+
+  
+
+ 
